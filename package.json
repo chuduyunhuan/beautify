@@ -1,0 +1,15 @@
+{
+  "name": "beautify",
+  "version": "1.0.0",
+  "description": "beautify the javascript files",
+  "main": "beautify.js",
+  "dependencies": {
+    "js-beautify": "^1.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node beautify"
+  },
+  "author": "Kerry W",
+  "license": "ISC"
+}
